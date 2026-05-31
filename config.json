@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvrocess",
+        "uuid": 22756503,
+        "checksum": "ipiqr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
